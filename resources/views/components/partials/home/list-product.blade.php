@@ -1,0 +1,1 @@
+<div id="productHero" class="col-md-12"></div>
