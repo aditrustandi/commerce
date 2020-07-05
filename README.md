@@ -6,5 +6,7 @@
 <h2>Install</h2>
 <ul>
     <li>Run <code>composer install</code></li>
+    <li>Create empty database</li>
+    <li>Setting up database in <code>.env</code> file</li>
     <li>Import file from <code>database/sql</code></li>
 </ul
