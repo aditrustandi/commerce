@@ -9,4 +9,5 @@
     <li>Create empty database</li>
     <li>Setting up database in <code>.env</code> file</li>
     <li>Import file from <code>database/sql</code></li>
+    <li>Run <code>php artisan serve</code> inside directory</li>
 </ul
